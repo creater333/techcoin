@@ -16,3 +16,8 @@ owner adress : 0x6e444cdafb01165cb864e52bc1ca2a7d8d6c0cdd
 isowner : True bool
 
 minting : False bool
+
+
+contact for invester or buyer
+techcoinerc@gmail.com
+telegram https://t.me/Techcoinowner
